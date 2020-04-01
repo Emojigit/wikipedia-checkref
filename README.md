@@ -7,7 +7,7 @@ Wikipedia Find Noref Page tool
 # Prepare to run
 1. for debian or ubuntu user: use the setup-debian.sh (<code>bash setup-debian.sh</code>)
 2. for macos user: use the setup-macos.sh (<code>bash setup-macos.sh</code>)
-3. for Windows user: please install anaconda. 
+3. for Windows user: please install anaconda (See <a href="https://docs.anaconda.com/anaconda/install/windows/">https://docs.anaconda.com/anaconda/install/windows/</a>). 
 4. If you not use the systems above: unlucky, I cant found any solution now, but <a href="https://www.google.com">Google can help you</a>!
 
 ## What the prepare wazard will do
@@ -16,4 +16,4 @@ Wikipedia Find Noref Page tool
 3. Windows: install python and frequently package, that includes requests
 
 # run
-use <code>python3 checkreb.py</code> to run!
+use <code>python3 checkref.py</code> to run!
