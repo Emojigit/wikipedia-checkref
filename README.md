@@ -13,3 +13,6 @@ Wikipedia Find Noref Page tool
 1. Debian or Ubuntu: install or upgrade python3 and pip, then install requests
 2. Macos: install requests
 3. Windows: install python and frequently package, that includes requests
+
+# run
+use <code>python3 main.py</code> to run!
