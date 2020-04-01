@@ -1,7 +1,8 @@
 Wikipedia Find Noref Page tool
 ===
-+ Author:<a href="https://zh.wikipedia.org/wiki/User:Emojiwiki" title="User:Emojiwiki">Emojiwiki</a>
-+ License:<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" title="CC BY-SA 4.0">CC BY-SA 4.0</a>
++ Author: <a href="https://zh.wikipedia.org/wiki/User:Emojiwiki" title="User:Emojiwiki">Emojiwiki</a>
++ License: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" title="CC BY-SA 4.0">CC BY-SA 4.0</a>
++ Status: Stable
 
 # install
 1. for debian or ubuntu user: use the setup-debian.sh (<code>bash setup-debian.sh</code>)
