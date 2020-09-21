@@ -2,7 +2,8 @@
 import requests
 import time
 import urllib.parse
-
+print("Wikipedia Checkref script 1.0 stable")
+print("Copyright 2019-2020 Cato Yiu")
 def line():
     print(str())
     print(str())
@@ -93,7 +94,7 @@ for x in times_list :
         time.sleep(3)
     except KeyboardInterrupt:
         print()
-        print("Paused by user")
+        print("Sopped by user")
         break
     print()
 line()
